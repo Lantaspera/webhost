@@ -11,6 +11,7 @@
     "react": "^17.0.2",
     "react-animations": "^1.0.0",
     "react-dom": "^17.0.2",
+    "react-multi-carousel": "^2.6.5",
     "react-responsive": "^9.0.0-beta.4",
     "react-responsive-carousel": "^3.2.21",
     "react-rotating-text": "^1.4.1",
@@ -19,9 +20,8 @@
     "web-vitals": "^1.1.2"
   },
   "scripts": {
-    "predeploy":"npm run build",
-  
-  "deploy": "gh-pages -b master -d build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -b master -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",

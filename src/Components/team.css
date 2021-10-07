@@ -118,13 +118,10 @@
 }
 .profiles{
   margin-top: 5px;
+  margin-left: 25%;
 
 }
-.pro-pic{
 
-  margin: 10%;
-
-}
 .profile-img{
 
   height: 170px; 
@@ -135,23 +132,20 @@
   font-weight: bold;
   font-size: 22px;
   line-height: 20px;
-  margin-left: 6%;
+ margin-left: 10%;
   margin-top: 50px;
+  margin-bottom: 50px;
 }
 
-.profile-details1{
-   font-style: normal;
-    font-weight: bold;
-    font-size: 15px;
-   
-}
+
 .profile-details2{
-   font-style: normal;
-    font-weight: 500;
-    font-size: 14px;
+   font-weight: bold;
     color: #969BAB;
-   
+    
+
+    
 }
+
 .navbar-contact{
   height: 1px;
 }
