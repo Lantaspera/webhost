@@ -14,13 +14,13 @@ function Services() {
             
 
             <Row className="webdesign-section">
-                <Col xs={12} lg={3}><img className="webdevelop-image" src="/images/img-1.jpeg"/></Col>
+                <Col xs={12} lg={3}><img className="webdevelop-image" src="https://res.cloudinary.com/lanta/image/upload/v1633623600/img-1_imshnm.jpg"/></Col>
                 <Col xs={12} lg={9}> <p className="webdevelop-title">Web Development </p> <p className="webdevelop-content">Web development is the work involved in developing a website for the internet. It includes aspects such as web design, web publishing, web programming, and database management. </p> </Col> 
             </Row>
 
             <Row className="webdesign-section">
                 <Col xs={12} lg={9}> <p className="webdevelop-title">Web Design</p> <p className="webdevelop-content">Web design refers to the design of websites that are displayed on the internet. It usually refers to the user experience aspects of website development rather than software development. Web design used to be focused on designing websites for desktop browsers. Web design also includes web apps, mobile apps, and user interface design. </p> </Col> 
-                <Col xs={12} lg={3}><img className="webdevelop-image" src="/images/img-2.jpg"/></Col>
+                <Col xs={12} lg={3}><img className="webdevelop-image" src="https://res.cloudinary.com/lanta/image/upload/v1633623599/img-2_mtcu7w.jpg"/></Col>
             </Row>
             
             <Row className="webdesign-section">
