@@ -35,8 +35,8 @@ function ImageFront() {
 
           
 
-          <Fade duration={1200}
-            transitionDuration={2500}
+          <Fade duration={800}
+            transitionDuration={1000}
             infinite={true}
             arrows={false} >
 
