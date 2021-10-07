@@ -8,22 +8,19 @@ function Portfolio() {
      
             <Row className="portfolio-section" >
                 <Row xs={12}>
-                <Col xs={3}><img src="https://lh3.googleusercontent.com/V1XLSPo8RgdexRkez6qva968baRTvvb9BbsWQUr9kmEWfJO_CmUuOzFLHXAKsfM3VioU9reHmYPzYa2MQIF7o70vZDQJ3M0vtuK4LhuJG0aap-BRCNo9ye9UzrAn3MWOceiEwTxHD1Afow0b-l7Hd3XwKSVpHvsvP2uR6Ke1SAqRC5Iz3LNQisW25GeGohhO1vjWXJ3qlKYBdeaNrJ6-h6X6bn_h-IooaNbJ5BT8VOM_upxBlGenN_H1UFh7VxYdmHoZa2fZBX2cYJg1rYhzXs7fDzPFAnpHTVwsj-uvgrmiKXp2ONkTewhcDfFWqE0M4W2l7vTBMpEt3pVKgUHC_ZREHvu6T80L0yY4vlbt05axschXpGNE1SA32Nf6-GZB5vQPI4Cp9bF1zn5IjNN1a64xhJhh-WI3xIj0gZ1lziJZIunYdfkzrU4stag-HTARhueIVzYzcZD-ffm59fnu0Kz7crzGmGUgdd8aB82ZqY0lea_5UlqY5DUqbVNVS7uyUpvKOUqri7_Fnp3Paau7E0yUfM-KjfsijrIcWunx50L7Ik38m347ru7k7YzMYM7YzOIBuakpVqG6OHp_2XXMDt9tLfkH1IwTBNH9UVUAvm4cJadUdJ_-zH1UcLM6te0IpEDAFTnBf-BHTu6szGMOxgP-6ID6pZnFe_qk7GmRmgYOxh_oigEWVjom4gFQZ2gzFAmlsavCAYBS5Yr7vpeK2cI=w253-h209-no?authuser=2" className="qmark-img" /></Col>
+                <Col xs={3}><img src="https://res.cloudinary.com/lanta/image/upload/v1633623606/qmark_gd3ukn.png" className="qmark-img" /></Col>
                <Col xs={9}></Col>
                 <Col xs={12} ><h2 className="title-port  ">Real expirience with the <br></br> Real stories of our customers</h2></Col>
                 <Col><p className="title-sub">we are gland to share the expirience of our succesfull condributions</p></Col>
                 </Row>
                 <Row className="total-port" xs={12} lg={12}>
                     <Col xs={10} lg={3} className="revw-port">
-                        <Col className="port-image"><img src="https://lh3.googleusercontent.com/W8U0ZenycOZqlneXbb77a8YtzZYIheG6SQ7zL0Kj6LGJk3cKzePbtjWg_wMmhc0BwL6lf3NJzQ1pAeAKSkwELZXuBzxb3s1-gHoO7FKTjgmxd02rDfP2V-RoVQZ5eUMlW7yuQEV8Ef8P5NFaLBi116SSGKhpmMNmAEae97iYxeo8tmMnm0Ag0H9UYvO6iVHlq7OBfBbUQy4967OsosJr3dnk4q38Zb42W5Av_QNZR1-BLw496ynEDhEc_Vws8fEuOmpdulTvCykXiLEYQ3BdsQNmwbzPG2tNPcIEH4ZUrOh5EsLXzG_4NxQ2QaFP_PaBEabs0mG05SYdfx0wjbdLUTh33pxSL9gEmkrIglQtBXeV50chgCGReTWu2NMa-gV8t_b0lZHISHV054ElYwaUewgJTx5meqlEM2TNJAN4D8aHrxh7EyA-Cg2J7QWKSAdvF8pTRt1Q4xzNBjk28Pz92cjxoMMQiVDW5RGCEhLItMtWUPArWDHJPXvfCAGCRKqJJbaCsmM0OJm-5CPpr0vJWSYbP3WrT1fgN7Q4KjMjHeQ1VvDHH6CPmju6D6imYDkD_NlngySKqARVqe6uRaN3GS6iHlG8AyRKPRGD-X3M79eZTdolE1I9GfYacRh-VLSQOzITB3Pbuu-ikrHXa9N_sLiHfM-Qcbs3GYsL61xoJ2iGmsdGfpwE1cEL9yUPVXtXI6un6YRA_StZU6VBTqoH5TM=w809-h454-no?authuser=2" className="logo-image" /></Col>
+                        <Col className="port-image"><img src="https://res.cloudinary.com/lanta/image/upload/v1633623605/rdionz_otpa0j.jpg" className="logo-image" /></Col>
                         <Col><img src="https://lh3.googleusercontent.com/zbgfVIyhxqxjRtdRqneG6Hf5dRIMiMvo2LNi-WQdBrOJ0C31o3ZpTUR_KlFictCCZdrCJAbOVvevZJ3B9m6NDmrSdzTpnvoJLv4Xrbqi3g3IUtkBEmDZXBH_TVR1JZQCm4GOiZU8sV8RsM2XKJbLRKYEkY6rAqAkSLYm-6ilNs5RrMrB6hVNhHjoIW6z4ccLawgMLQu0uz8HcqbnSKJZTzfHGPgQ_VmPE371EdsxZKRPJH2Nr6dP_ltyJUqAr3j2XV2Brf75bN8ntD5MKiSEne3DtRiN_kvzN_I0QwTvpHyZX8TotFOHt8krtinia5hUlVG_B_hlDuigVj_3C06Tuim2BAsuna9Kzz1z_7-H-F-4okjIU4Ou_faQrtU7OFn2wVh2JWk06uAi1WsfOu69pd2bi6BnJoDb4CY_NvCSTcvwJ4RV2Po0AINzSEkIm0CQGfb5MLXNIiED9pSaNToV3QY5KOOSid35sK99Jc5KxOQA6-kXq7fQ4zvhCZaNp2xJockDgFc6ylQaxUxuh0DuOHd_1LtyMTRGNKP4Yhkz4YTpuel5hEk4vlOnW4gG2W8QYIpNMom6L0r0nqAVnp1KgAncaJKSCtR45HSu4CKzQQeiraksyZRuxa7TDrvxv085RifwpRCcyLOx35znygANHnPzUKHYPdFn_IoB6jc1vYEV89xSnw4KNbnqIZkPfDjoFmzbfnWQb62IqNIkNxA9PjE=w1044-h833-no?authuser=2" className="mark-img" /></Col>
                         <Col><p className="content-paragf">To start my startup landing page design quickly, I was searching for a  developer comunity . Lantaspera is one of the best webpage developers I have come across. Its so flexible, well organised and creative.</p></Col>
                         <Col ><h1 className="name-founder">Dr.Nabeel M Naasar</h1></Col>
                         <Col> <p className="cmpny-dis">Co-Founder -Rdionz Biomobility</p></Col>
                     </Col>
-
-
-
 
 
                     <Col xs={10} lg={3}  className="revw-port">
