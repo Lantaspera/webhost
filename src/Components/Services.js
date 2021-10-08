@@ -24,13 +24,13 @@ function Services() {
             </Row>
             
             <Row className="webdesign-section">
-                <Col xs={12} lg={3}><img className="webdevelop-image" src="/images/img-3.jpg"/></Col>
+                <Col xs={12} lg={3}><img className="webdevelop-image" src="https://res.cloudinary.com/lanta/image/upload/v1633712388/2809413_hd8gq9.jpg"/></Col>
                 <Col xs={12} lg={9}> <p className="webdevelop-title">App Development</p> <p className="webdevelop-content">App development is the process by which software applications are designed to run on mobile devices, such as a smartphone or tablet computer. These applications can be pre-installed on phones during manufacturing platforms, or delivered as web applications using server-side or client-side processing to provide an "application-like" experience within a Web browser.</p> </Col> 
             </Row>
 
             <Row className="webdesign-section">
                 <Col xs={12} lg={9}> <p className="webdevelop-title">Graphic Design</p> <p className="webdevelop-content">Graphic Design is the process of creating visual content to communicate information/ messages to the masses. Considered to be a sub-set of Communication Design, Graphic Design is used to create visual content using elements such as photographs, colours, typography, illustrations, and icons.</p> </Col> 
-                <Col xs={12} lg={3}><img className="webdevelop-image" src="/images/img-4.jpg"/></Col>
+                <Col xs={12} lg={3}><img className="webdevelop-image" src="https://res.cloudinary.com/lanta/image/upload/v1633712388/2809413_hd8gq9.jpg"/></Col>
             </Row>
              
             <Row className="webdesign-section">
