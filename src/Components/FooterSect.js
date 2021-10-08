@@ -7,7 +7,7 @@ function FooterSect() {
         <Row className="main-row">
             <Col xs={12} lg={12}>
                 
-            <Col xs={12} lg={12} className="main-pictr" ><img  /></Col>      
+            <Col xs={12} lg={12} className="main-pictr" ><img src="https://res.cloudinary.com/lanta/image/upload/v1633713424/NEWW_nrupma.png" /></Col>      
            
           <Col className="main-clm"  lg={6}>
         

@@ -30,17 +30,17 @@ function Services() {
 
             <Row className="webdesign-section">
                 <Col xs={12} lg={9}> <p className="webdevelop-title">Graphic Design</p> <p className="webdevelop-content">Graphic Design is the process of creating visual content to communicate information/ messages to the masses. Considered to be a sub-set of Communication Design, Graphic Design is used to create visual content using elements such as photographs, colours, typography, illustrations, and icons.</p> </Col> 
-                <Col xs={12} lg={3}><img className="webdevelop-image" src="https://res.cloudinary.com/lanta/image/upload/v1633712388/2809413_hd8gq9.jpg"/></Col>
+                <Col xs={12} lg={3}><img className="webdevelop-image" src="https://res.cloudinary.com/lanta/image/upload/v1633712628/5089060_kzlyqw.jpg"/></Col>
             </Row>
              
             <Row className="webdesign-section">
-                <Col xs={12} lg={3}><img className="webdevelop-image" src="/images/img-5.jpg"/></Col>
+                <Col xs={12} lg={3}><img className="webdevelop-image" src="https://res.cloudinary.com/lanta/image/upload/v1633713713/3456379_q3hwof.jpg"/></Col>
                 <Col xs={12} lg={9}> <p className="webdevelop-title">Digital Market</p> <p className="webdevelop-content">Digital marketing is the component of marketing that utilizes internet and online based digital technologies such as desktop computers, mobile phones and other digital media and platforms to promote products and services.</p> </Col> 
             </Row>
 
             <Row className="webdesign-section">
                 <Col xs={12} lg={9}> <p className="webdevelop-title">Social Media Campaign</p> <p className="webdevelop-content">A Social Media Campaign is a coordinated marketing effort that is reinforced for the attainment of the business goal using one or more social media platforms.It is an organized marketing effort to increase consumer awareness, interest, and loyalty to an organization, brand, product, or service, through social media channels.</p> </Col> 
-                <Col xs={12} lg={3}><img className="webdevelop-image" src="/images/img-6.jpg"/></Col>
+                <Col xs={12} lg={3}><img className="webdevelop-image" src="https://res.cloudinary.com/lanta/image/upload/v1633714687/3545757_avvkd8.jpg"/></Col>
             </Row>
              
          </div>
