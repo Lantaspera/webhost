@@ -1,6 +1,7 @@
 import React from 'react'
 import { Row, Col } from 'react-bootstrap'
 import './Contact.css'
+import { SocialIcon } from 'react-social-icons';
 function Contact() {
     return (
         <Row>
@@ -37,7 +38,19 @@ function Contact() {
                 <p className="getin">Get In Touch</p>
                 <p className="con-adress">www.lantespera.com </p><br />
                 <p className="getin2">Follow Us In</p>
-                <p className="con-adress2">facebook<br />instagram<br />youtube </p>
+              <Col className="con-adress1"> 
+                <a className="con-adress2" href="https://www.linkedin.com/company/lantaspera-technologies">
+                <SocialIcon  style={{ height: 25, width: 25 }} url="https://linkedin.com/jaketrent" />   Linkedin</a><br/>
+
+                <a className="con-adress2" href="https://www.linkedin.com/company/lantaspera-technologies">
+                <SocialIcon  style={{ height: 25, width: 25 }} url="https://facebook.com/jaketrent" />   Facebook</a><br/>
+
+                <a className="con-adress2" href="https://www.linkedin.com/company/lantaspera-technologies">
+                <SocialIcon  style={{ height: 25, width: 25 }} url="https://instagram.com/jaketrent" />   Instagram</a><br/>
+
+                <a className="con-adress2" href="https://www.linkedin.com/company/lantaspera-technologies">
+                <SocialIcon  style={{ height: 25, width: 25 }} url="https://youtube.com/jaketrent" />   Youtube</a>
+                </Col>
             </Col>
 
 
