@@ -125,7 +125,7 @@
 .profile-img{
 
   height: 170px; 
-  border-radius: 20%;
+  border-radius: 100%;
 }
 .heading-team{
   font-style: normal;
@@ -136,12 +136,14 @@
   margin-top: 50px;
   margin-bottom: 50px;
 }
-
+.profile-details1{
+  margin-left: 5%;
+}
 
 .profile-details2{
    font-weight: bold;
     color: #969BAB;
-    
+    margin-left: 8%;
 
     
 }
