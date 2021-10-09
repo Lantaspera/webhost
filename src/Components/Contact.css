@@ -124,9 +124,14 @@ color: #FFFFFF;
     color: #FFFFFF;
 }
 .con-adress2{
+    margin-top: 5%;
     padding-top: 30px;
     padding-left: 40px;
     font-size: 20px;
     height: 20px;
     color: #FFFFFF;
+}
+.con-adress1{
+    margin-top: 8%;
+    padding: 2%;
 }
